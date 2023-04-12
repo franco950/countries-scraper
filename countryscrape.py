@@ -19,3 +19,5 @@ while True:
     if a in countries:
         num=countries.index(a)
         print(stats[num])
+    else:
+        print('Not a country....check your spelling')
