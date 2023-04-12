@@ -1,2 +1,2 @@
 # countries scraper
- scraoing countries and their info
+ scraping countries and their info, and using country name as input to output the country info
